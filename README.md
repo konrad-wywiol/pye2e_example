@@ -8,5 +8,5 @@ https://github.com/konrad-wywiol/pye2e/tree/develop
 4. pip install --index-url https://test.pypi.org/simple/ pye2e  
 
 ## Running
-change paths in project_config file
-python3 run.py
+change paths in project_config file  
+python3 run.py  
