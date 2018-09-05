@@ -1,10 +1,10 @@
 config = {
     'directory_path': {
-        'features': '/home/konrad/A/pye2e_example/features',
-        'steps': '/home/konrad/A/pye2e_example/steps'
+        'features': '/home/user/pye2e_example/steps',
+        'steps': '/home/user/pye2e_example/steps'
     },
     'debug': False,
-    'timeout': 2,
+    'timeout': 5,
     'browser': 'CHROME',
     'selenium_host': 'localhost',
     'fullscreen': True,
