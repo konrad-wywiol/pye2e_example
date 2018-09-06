@@ -9,4 +9,4 @@ https://github.com/konrad-wywiol/pye2e/tree/develop
 
 ## Running
 change paths in project_config file  
-python3 run.py  
+python3 run.py  or ./run.sh
