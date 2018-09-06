@@ -13,5 +13,9 @@ config = {
         'active': False,
         'loading_object_XP': [],
         'custom_timeout': 10
+    },
+    'report': {
+        'active': False,
+        'path': '/home/user/reports/'
     }
 }
