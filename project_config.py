@@ -1,6 +1,6 @@
 config = {
     'directory_path': {
-        'features': '/home/user/pye2e_example/steps',
+        'features': '/home/user/pye2e_example/features',
         'steps': '/home/user/pye2e_example/steps'
     },
     'debug': False,
