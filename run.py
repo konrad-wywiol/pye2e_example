@@ -1,4 +1,4 @@
-from steps.paa.pye2e import start
+from pye2e import start
 import project_config
 
 
