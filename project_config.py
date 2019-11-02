@@ -1,13 +1,17 @@
 config = {
     'directory_path': {
-        'features': '/home/user/pye2e_example/features',
-        'steps': '/home/user/pye2e_example/steps'
+        'default_path': True,
+        'paths': {
+            'features': '',
+            'steps': ''
+        }
     },
     'debug': False,
     'timeout': 5,
-    'browser': 'CHROME',
+    'browser': 'Chrome',
     'selenium_host': 'localhost',
-    'fullscreen': True,
+    'headless': True,
+    'fullscreen': False,
     'main_url': 'https://www.google.com/',
     'custom_wait': {
         'active': False,

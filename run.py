@@ -1,6 +1,6 @@
 from pye2e import start
-from project_config import config
+import project_config
 
 
 if __name__ == '__main__':
-    start(config)
+    start(project_config)
