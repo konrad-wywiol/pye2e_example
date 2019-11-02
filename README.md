@@ -2,7 +2,7 @@
 https://github.com/konrad-wywiol/pye2e/tree/develop
 
 ## Docker-Compose
-docker-compose up --build
+docker-compose up 
 
 ## Or Installation
 1. git clone  
